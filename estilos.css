@@ -16,3 +16,17 @@ html, body {
     margin: 0;
   }
   
+  #da {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 10px;
+    font-size: 8pt;
+    font-family: sans-serif;
+  }
+
+  #da a {
+    color: transparent;
+    text-decoration: none;
+  }
